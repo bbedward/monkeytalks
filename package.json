@@ -76,7 +76,7 @@
     "ws": "^7.4.6"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.5.1",
+    "@vue/cli-service": "^5.0.8",
     "autoprefixer": "^9.5.0",
     "babel-core": "^6.25.0",
     "babel-eslint": "^8.2.3",
